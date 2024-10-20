@@ -1,0 +1,48 @@
+[
+    {
+        "name": "iphone10",
+        "price": 1115,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone13",
+        "price": 1455,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone14",
+        "price": 1615,
+        "company": "apple"
+    },
+    {
+        "name": "iphone15",
+        "price": 1715,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "dell i3",
+        "price": 2115,
+        "featured": true,
+        "company": "dell"
+    },
+    {
+        "name": "galaxy s23",
+        "price": 1455,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "redmi note 8",
+        "price": 715,
+        "company": "mi"
+    },
+    {
+        "name": "redmi note 13",
+        "price": 915,
+        "featured": true,
+        "company": "mi"
+    }
+]
